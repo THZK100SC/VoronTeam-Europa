@@ -6,7 +6,7 @@ Jedná se o repositář VoronDesign v českém a anglickém jazyce, jehož hlavn
 
 ## List of all Voron repositories | Přehled všech repositářů Voron 
 
-- [VoronDesignCZ](https://github.com/THZK100SC/VoronDesignCZ) - Obsahuje základní info o skupině VoronDesign a loga. 
+- [VoronDesignCZ](https://github.com/THZK100SC/VoronDesignCZ) - Obsahuje základní info o skupině VoronDesign, loga, ikony. 
 - [VoronDesignCZ-Voron-0](https://github.com/THZK100SC/VoronDesignCZ-Voron-0) - Vše o Voron 0
 
 ## Authors
