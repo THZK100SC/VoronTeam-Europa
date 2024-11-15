@@ -35,19 +35,22 @@ Font Play Regular (https://fonts.google.com/specimen/Play)
 
 ## Voron Source Links | Voron Zdrojové Odkazy
 
-TEXT 1
+...
 
 - [Voron Design](https://vorondesign.com/)
 - [Voron Desing - Mods](https://mods.vorondesign.com/)
 - [Voron Design - Github](https://github.com/VoronDesign)
-- [Voron Design - reddit](https://www.reddit.com/r/VORONDesign/)
+- [Voron Design - reddit r/VORONDesign](https://www.reddit.com/r/VORONDesign/)
+- [Voron Design - reddit r/voroncorexy(only Serial Request)](https://www.reddit.com/r/voroncorexy/)
 - [Voron Design - Discord](https://discord.com/invite/voron)
 - [Voron Design - Forum](https://forum.vorondesign.com/)
 - [Voron Design - Documentation](https://docs.vorondesign.com/)
 - [Voron Design - Print It Forward(PIF)](https://pif.voron.dev/)
 
-TEXT 2
 
+...
+
+- [Voron Printer Database](https://www.vorondb.com/)
 - [TeamFDM](https://www.teamfdm.com/)
 - [VORON COLOR CONFIGURATOR](https://www.3dprinter-color-configurator.com/voron-color-configurator/voron-v0.2-default.html)
 - [ONLINE 3D VIEWER] (https://3dviewer.net/#)
