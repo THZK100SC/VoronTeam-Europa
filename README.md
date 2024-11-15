@@ -22,6 +22,9 @@ Logo firmy Protolabs (https://www.protolabs.com/) je velmi podobné a kopíruje 
 
 ## VoronDesign Logotype | VoronDesign Logotyp
 
+![Logo](https://raw.githubusercontent.com/THZK100SC/VoronDesignCZ/refs/heads/main/Logotype/VoronDesign_Logo.png)
+
+
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Red               | ![#FE0000](https://placehold.co/15x15/FE0000/FE0000.png) #FE0000   |
