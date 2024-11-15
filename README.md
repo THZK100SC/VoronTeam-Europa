@@ -28,15 +28,16 @@ Logo firmy Protolabs (https://www.protolabs.com/) je velmi podobné a kopíruje 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Red               | ![#FE0000](https://placehold.co/15x15/FE0000/FE0000.png) #FE0000   |
+| White             | ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) #FFFFFF   |
 | Black             | ![#000000](https://placehold.co/15x15/000000/000000.png) #000000   |
 
 Font Play Regular (https://fonts.google.com/specimen/Play)
 
 
-## Authors
+## Authors | Autoři
 
 - [@THZK100SC](https://github.com/THZK100SC)
 
-## Feedback
+## Feedback | Zpětná vazba
 
 If you have any feedback, please reach out to us at thzk100sc@gmail.com
