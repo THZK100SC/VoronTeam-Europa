@@ -17,8 +17,8 @@ Logo firmy Protolabs (https://www.protolabs.com/) je velmi podobné a kopíruje 
 
 ## List of all VoronDesignCZ repositories | Přehled všech repositářů VoronDesignCZ 
 
-- [VoronDesignCZ](https://github.com/THZK100SC/VoronDesignCZ) - Obsahuje základní info o skupině VoronDesign, loga, ikony. 
-- [VoronDesignCZ-Voron-0](https://github.com/THZK100SC/VoronDesignCZ-Voron-0) - Vše o Voron 0
+* [VoronDesignCZ](https://github.com/THZK100SC/VoronDesignCZ) - Obsahuje základní info o skupině VoronDesign, loga, ikony. 
+* [VoronDesignCZ-Voron-0](https://github.com/THZK100SC/VoronDesignCZ-Voron-0) - Vše o Voron 0
 
 ## VoronDesign Logotype | VoronDesign Logotyp
 
@@ -35,10 +35,11 @@ Font Play Regular (https://fonts.google.com/specimen/Play)
 
 ## Voron Source Links | Voron Zdrojové Odkazy
 
-This project is used by the following companies:
 
-- Company 1
-- Company 2
+
+* Company 1
+	- 1
+* Company 2
 
 
 ## Authors | Autoři
