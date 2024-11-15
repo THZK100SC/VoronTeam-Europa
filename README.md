@@ -33,6 +33,13 @@ Logo firmy Protolabs (https://www.protolabs.com/) je velmi podobné a kopíruje 
 
 Font Play Regular (https://fonts.google.com/specimen/Play)
 
+## Voron Source Links | Voron Zdrojové Odkazy
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
+
 
 ## Authors | Autoři
 
