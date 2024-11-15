@@ -9,6 +9,10 @@ Jedná se o repositář VoronDesign v českém a anglickém jazyce, jehož hlavn
 - [VoronDesignCZ](https://github.com/THZK100SC/VoronDesignCZ) - Obsahuje základní info o skupině VoronDesign, loga, ikony. 
 - [VoronDesignCZ-Voron-0](https://github.com/THZK100SC/VoronDesignCZ-Voron-0) - Vše o Voron 0
 
+## History of the VORON logo | Historie loga VORON
+
+Vytvořeno v roce 2015 od designové společnosti 99designs. 
+
 ## Authors
 
 - [@THZK100SC](https://github.com/THZK100SC)
