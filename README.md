@@ -37,11 +37,20 @@ Font Play Regular (https://fonts.google.com/specimen/Play)
 
 TEXT 1
 
-- Company 1
+- [Voron Design](https://vorondesign.com/)
+- [Voron Desing - Mods](https://mods.vorondesign.com/)
+- [Voron Design - Github](https://github.com/VoronDesign)
+- [Voron Design - reddit](https://www.reddit.com/r/VORONDesign/)
+- [Voron Design - Discord](https://discord.com/invite/voron)
+- [Voron Design - Forum](https://forum.vorondesign.com/)
+- [Voron Design - Documentation](https://docs.vorondesign.com/)
+- [Voron Design - Print It Forward(PIF)](https://pif.voron.dev/)
 
 TEXT 2
 
+- [TeamFDM](https://www.teamfdm.com/)
 - [VORON COLOR CONFIGURATOR](https://www.3dprinter-color-configurator.com/voron-color-configurator/voron-v0.2-default.html)
+- [ONLINE 3D VIEWER] (https://3dviewer.net/#)
 
 
 ## Authors | Autoři
