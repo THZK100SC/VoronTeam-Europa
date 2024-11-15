@@ -7,13 +7,13 @@ Jedná se o repositář VoronDesign v českém a anglickém jazyce, jehož hlavn
 ## History of the VORON logo | Historie loga VORON
 
 Created in 2015 by the design company 99designs. The logo was originally created for MZBot, but this project was discontinued. The logo was adopted for VORON Design as a tribute to the roots of the MZBot project.
-The logo of Protolabs (https://www.protolabs.com/) is very similar and copies the logo of Voron Design.
+The logo of [Protolabs](https://www.protolabs.com/) is very similar and copies the logo of Voron Design.
 
 - - - -
 
 Vytvořeno v roce 2015 od designové společnosti 99designs. Původně bylo logo vytvořeno pro MZBot, ale tento projekt byl ukončen. Logo bylo přijato pro VORON Design jako pocta kořenům projektu MZBot.
 
-Logo firmy Protolabs (https://www.protolabs.com/) je velmi podobné a kopíruje logo Voron Design.
+Logo firmy [Protolabs](https://www.protolabs.com/) je velmi podobné a kopíruje logo Voron Design.
 
 ## List of all VoronDesignCZ repositories | Přehled všech repositářů VoronDesignCZ 
 
@@ -53,7 +53,7 @@ Font Play Regular (https://fonts.google.com/specimen/Play)
 - [Voron Printer Database](https://www.vorondb.com/)
 - [TeamFDM](https://www.teamfdm.com/)
 - [VORON COLOR CONFIGURATOR](https://www.3dprinter-color-configurator.com/voron-color-configurator/voron-v0.2-default.html)
-- [ONLINE 3D VIEWER] (https://3dviewer.net/#)
+- [ONLINE 3D VIEWER](https://3dviewer.net/#)
 
 
 ## Authors | Autoři
