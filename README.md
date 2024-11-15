@@ -27,7 +27,7 @@ Logo firmy Protolabs (https://www.protolabs.com/) je velmi podobné a kopíruje 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Red               | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f   |
-| Black             | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000   |
+| Black             | ![#000000](https://placehold.co/15x15/000000/000000.png) #000000   |
 
 
 ## Authors
