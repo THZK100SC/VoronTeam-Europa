@@ -23,16 +23,11 @@ Contains basic info about VoronDesign group, logos, icons.
 
 Obsahuje základní info o skupině VoronDesign, loga, ikony.
 
-#### Question 2
+#### [VoronDesignCZ-Voron-0](https://github.com/THZK100SC/VoronDesignCZ-Voron-0)
 
-Answer 2
+All about Voron 0
 
-- 
-	 
-- [VoronDesignCZ-Voron-0](https://github.com/THZK100SC/VoronDesignCZ-Voron-0)
-	All about Voron 0
-
-	Vše o Voron 0
+Vše o Voron 0
 
 ## VoronDesign Logotype | VoronDesign Logotyp
 
