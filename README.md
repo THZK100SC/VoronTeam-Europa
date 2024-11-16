@@ -67,6 +67,7 @@ Font Play Regular (https://fonts.google.com/specimen/Play)
 
 ## Authors | Autoři
 
+- Voron Design Team
 - [@THZK100SC](https://github.com/THZK100SC)
 
 ## Feedback | Zpětná vazba
