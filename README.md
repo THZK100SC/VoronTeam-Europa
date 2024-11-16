@@ -56,15 +56,17 @@ Font Play Regular (https://fonts.google.com/specimen/Play)
 
 ...
 
--[Voron Printer Database](https://www.vorondb.com/)
--[TeamFDM](https://www.teamfdm.com/)
--[VORON COLOR CONFIGURATOR](https://www.3dprinter-color-configurator.com/voron-color-configurator/voron-v0.2-default.html)
--[ONLINE 3D VIEWER](https://3dviewer.net/#)
+- [Voron Printer Database](https://www.vorondb.com/)
+- [TeamFDM](https://www.teamfdm.com/)
+- [VORON COLOR CONFIGURATOR](https://www.3dprinter-color-configurator.com/voron-color-configurator/voron-v0.2-default.html)
+- [ONLINE 3D VIEWER](https://3dviewer.net/#)
 
 
 ## Authors | Autoři
 
--[@THZK100SC](https://github.com/THZK100SC)
+- [@THZK100SC](https://github.com/THZK100SC)
+
+- [@G3root](https://github.com/G3root)
 
 ## Feedback | Zpětná vazba
 
