@@ -23,7 +23,7 @@ Logo firmy [Protolabs](https://www.protolabs.com/) je velmi podobné a kopíruje
 	Obsahuje základní info o skupině VoronDesign, loga, ikony. 
 - [VoronDesignCZ-Voron-0](https://github.com/THZK100SC/VoronDesignCZ-Voron-0)
 	All about Voron 0
-	
+
 	Vše o Voron 0
 
 ## VoronDesign Logotype | VoronDesign Logotyp
@@ -56,15 +56,15 @@ Font Play Regular (https://fonts.google.com/specimen/Play)
 
 ...
 
-- [Voron Printer Database](https://www.vorondb.com/)
-- [TeamFDM](https://www.teamfdm.com/)
-- [VORON COLOR CONFIGURATOR](https://www.3dprinter-color-configurator.com/voron-color-configurator/voron-v0.2-default.html)
-- [ONLINE 3D VIEWER](https://3dviewer.net/#)
+-[Voron Printer Database](https://www.vorondb.com/)
+-[TeamFDM](https://www.teamfdm.com/)
+-[VORON COLOR CONFIGURATOR](https://www.3dprinter-color-configurator.com/voron-color-configurator/voron-v0.2-default.html)
+-[ONLINE 3D VIEWER](https://3dviewer.net/#)
 
 
 ## Authors | Autoři
 
-- [@THZK100SC](https://github.com/THZK100SC)
+-[@THZK100SC](https://github.com/THZK100SC)
 
 ## Feedback | Zpětná vazba
 
