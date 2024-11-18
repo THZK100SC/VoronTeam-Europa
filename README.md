@@ -19,15 +19,24 @@ Logo firmy [Protolabs](https://www.protolabs.com/) je velmi podobné a kopíruje
 
 #### [VoronDesignCZ](https://github.com/THZK100SC/VoronDesignCZ)
 
-Contains basic info about VoronDesign group, logos, icons.
+Contains basic info about VoronDesign group - logos, icons.
 
-Obsahuje základní info o skupině VoronDesign, loga, ikony.
+Obsahuje základní info o skupině VoronDesign - loga, ikony.
+
+
+#### [VoronDesignCZ-Docs](https://github.com/THZK100SC/VoronDesignCZ-Docs)
+
+Documentation for printer construction. 
+
+Dokumentace pro stavbu tiskáren.
+
 
 #### [VoronDesignCZ-Voron-0](https://github.com/THZK100SC/VoronDesignCZ-Voron-0)
 
-All about Voron 0
+Unofficial development of new versions of the Voron Zero 3D printer.
 
-Vše o Voron 0
+Neoficiální vývoj nových verzí 3D tiskárny Voron Zero
+
 
 ## VoronDesign Logotype | VoronDesign Logotyp
 
@@ -50,7 +59,7 @@ Font Play Regular (https://fonts.google.com/specimen/Play)
 - [Voron Desing - Mods](https://mods.vorondesign.com/)
 - [Voron Design - Github](https://github.com/VoronDesign)
 - [Voron Design - reddit r/VORONDesign](https://www.reddit.com/r/VORONDesign/)
-- [Voron Design - reddit r/voroncorexy(only Serial Request)](https://www.reddit.com/r/voroncorexy/)
+- [Voron Design - reddit r/voroncorexy (only Serial Request)](https://www.reddit.com/r/voroncorexy/)
 - [Voron Design - Discord](https://discord.com/invite/voron)
 - [Voron Design - Forum](https://forum.vorondesign.com/)
 - [Voron Design - Documentation](https://docs.vorondesign.com/)
