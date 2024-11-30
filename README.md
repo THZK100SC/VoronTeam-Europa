@@ -1,4 +1,4 @@
-# VoronDesignCZ
+# VoronTeam-Europa
 
 It is a VoronDesign repository in Czech and English, whose main purpose is to improve the clarity of available technical manuals, procedures and mods.
 
@@ -17,14 +17,14 @@ Logo firmy [Protolabs](https://www.protolabs.com/) je velmi podobné a kopíruje
 
 ## List of all VoronDesignCZ repositories | Přehled všech repositářů VoronDesignCZ 
 
-#### [VoronDesignCZ](https://github.com/THZK100SC/VoronDesignCZ)
+#### [VoronTeam-Europa](https://github.com/THZK100SC/VoronTeam-Europa)
 
 Contains basic info about VoronDesign group - logos, icons.
 
 Obsahuje základní info o skupině VoronDesign - loga, ikony.
 
 
-#### [VoronDesignCZ-Docs](https://github.com/THZK100SC/VoronDesignCZ-Docs)
+#### [VoronTeam-Europa-Docs](https://github.com/THZK100SC/VoronDesignCZ-Docs)
 
 Documentation for printer construction. 
 
