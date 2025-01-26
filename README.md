@@ -31,7 +31,7 @@ Documentation for printer construction.
 Dokumentace pro stavbu tiskáren.
 
 
-#### [VoronDesignCZ-Voron-0](https://github.com/THZK100SC/VoronDesignCZ-Voron-0)
+#### [VoronTeam-Europa-VoronZero](https://github.com/THZK100SC/VoronDesignCZ-Voron-0)
 
 Unofficial development of new versions of the Voron Zero 3D printer.
 
