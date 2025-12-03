@@ -2,6 +2,8 @@
 
 It is a VoronDesign repository in Czech and English, whose main purpose is to improve the clarity of available technical manuals, procedures and mods.
 
+.......................................................................................
+
 Jedná se o repositář VoronDesign v českém a anglickém jazyce, jehož hlavním úkolem je zlepšit přehlednost dostupných technickým manuálů, postupů a modů.
 
 ## History of the VORON logo | Historie loga VORON
@@ -9,7 +11,7 @@ Jedná se o repositář VoronDesign v českém a anglickém jazyce, jehož hlavn
 Created in 2015 by the design company 99designs. The logo was originally created for MZBot, but this project was discontinued. The logo was adopted for VORON Design as a tribute to the roots of the MZBot project.
 The logo of [Protolabs](https://www.protolabs.com/) is very similar and copies the logo of Voron Design.
 
-- - - -
+.......................................................................................
 
 Vytvořeno v roce 2015 od designové společnosti 99designs. Původně bylo logo vytvořeno pro MZBot, ale tento projekt byl ukončen. Logo bylo přijato pro VORON Design jako pocta kořenům projektu MZBot.
 
@@ -21,7 +23,7 @@ Logo firmy [Protolabs](https://www.protolabs.com/) je velmi podobné a kopíruje
 
 Contains basic info about VoronDesign group - logos, icons.
 
-- - - -
+.......................................................................................
 
 Obsahuje základní info o skupině VoronDesign - loga, ikony.
 
@@ -30,7 +32,7 @@ Obsahuje základní info o skupině VoronDesign - loga, ikony.
 
 Documentation for printer construction. 
 
-- - - -
+.......................................................................................
 
 Dokumentace pro stavbu tiskáren.
 
@@ -39,7 +41,7 @@ Dokumentace pro stavbu tiskáren.
 
 Unofficial development of new versions of the Voron Zero 3D printer.
 
-- - - -
+.......................................................................................
 
 Neoficiální vývoj nových verzí 3D tiskárny Voron Zero
 
