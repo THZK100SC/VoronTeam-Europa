@@ -21,6 +21,8 @@ Logo firmy [Protolabs](https://www.protolabs.com/) je velmi podobné a kopíruje
 
 Contains basic info about VoronDesign group - logos, icons.
 
+- - - -
+
 Obsahuje základní info o skupině VoronDesign - loga, ikony.
 
 
@@ -28,12 +30,16 @@ Obsahuje základní info o skupině VoronDesign - loga, ikony.
 
 Documentation for printer construction. 
 
+- - - -
+
 Dokumentace pro stavbu tiskáren.
 
 
 #### [VoronTeam-Europa-VoronZero](https://github.com/THZK100SC/VoronDesignCZ-Voron-0)
 
 Unofficial development of new versions of the Voron Zero 3D printer.
+
+- - - -
 
 Neoficiální vývoj nových verzí 3D tiskárny Voron Zero
 
